@@ -1,0 +1,2 @@
+#define RugbyKickSim_VERSION_MAJOR @RugbyKickSim_VERSION_MAJOR@
+#define RugbyKickSim_VERSION_MINOR @RugbyKickSim_VERSION_MINOR@

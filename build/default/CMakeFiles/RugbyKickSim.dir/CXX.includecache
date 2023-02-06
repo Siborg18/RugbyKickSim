@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simon/eclipse-workspace 3/RugbyKickSim/KickMechanics.h
+
+/home/simon/eclipse-workspace 3/RugbyKickSim/PlayerStats.h
+string
+-
+set
+-
+vector
+-
+
+/home/simon/eclipse-workspace 3/RugbyKickSim/RugbyKickSim.cpp
+iostream
+-
+config.h
+/home/simon/eclipse-workspace 3/RugbyKickSim/config.h
+PlayerStats.h
+/home/simon/eclipse-workspace 3/RugbyKickSim/PlayerStats.h
+inGameMaths.h
+/home/simon/eclipse-workspace 3/RugbyKickSim/inGameMaths.h
+mathsTests.cpp
+/home/simon/eclipse-workspace 3/RugbyKickSim/mathsTests.cpp
+KickMechanics.h
+/home/simon/eclipse-workspace 3/RugbyKickSim/KickMechanics.h
+
+/home/simon/eclipse-workspace 3/RugbyKickSim/inGameMaths.h
+vector
+-
+cmath
+-
+
+/home/simon/eclipse-workspace 3/RugbyKickSim/mathsTests.cpp
+assert.h
+-
+cassert
+-
+
+config.h
+

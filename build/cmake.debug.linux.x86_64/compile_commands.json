@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/simon/eclipse-workspace 3/RugbyKickSim/build/cmake.debug.linux.x86_64",
+  "command": "/usr/bin/c++  -I\"/home/simon/eclipse-workspace 3/RugbyKickSim/build/cmake.debug.linux.x86_64\" -g -o CMakeFiles/RugbyKickSim.dir/RugbyKickSim.cpp.o -c \"/home/simon/eclipse-workspace 3/RugbyKickSim/RugbyKickSim.cpp\"",
+  "file": "/home/simon/eclipse-workspace 3/RugbyKickSim/RugbyKickSim.cpp"
+}
+]
